@@ -9,3 +9,9 @@ C:\Users\vale\Documents\GitHub\TestDummy\TestDummy\obj\Debug\TestDummy.pdb
 C:\Users\vale\Documents\GitHub\TestDummy\bin\Debug\TestDummy.exe.config
 C:\Users\vale\Documents\GitHub\TestDummy\obj\Debug\TestDummy.exe
 C:\Users\vale\Documents\GitHub\TestDummy\obj\Debug\TestDummy.pdb
+C:\Users\vale\Documents\GitHub\TestDummy\bin\Debug\TestDummy.exe
+C:\Users\vale\Documents\GitHub\TestDummy\bin\Debug\TestDummy.pdb
+C:\Users\vale\Documents\GitHub\TestDummy\obj\Debug\TestDummy.csprojResolveAssemblyReference.cache
+C:\Users\vale\Documents\GitHub\TestDummy\obj\Debug\TestDummy.Form1.resources
+C:\Users\vale\Documents\GitHub\TestDummy\obj\Debug\TestDummy.Properties.Resources.resources
+C:\Users\vale\Documents\GitHub\TestDummy\obj\Debug\TestDummy.csproj.GenerateResource.Cache

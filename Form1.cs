@@ -16,5 +16,10 @@ namespace TestDummy
         {
             InitializeComponent();
         }
+
+        private void ExitApp(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
